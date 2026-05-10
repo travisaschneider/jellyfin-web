@@ -89,5 +89,50 @@
     <div id="reactRoot">
         <div class="splashLogo"></div>
     </div>
+    <!-- MIDI Player Library -->
+    <script src="https://jsdelivr.net"></script>
+
+    <!-- Custom Random MIDI Controller -->
+    <script type="module">
+        let midiList = [];
+        const player = document.createElement('midi-player');
+    
+        // Set your preferred SoundFont
+        player.setAttribute('sound-font', 'https://googleapis.com');
+        player.style.display = 'none'; 
+        docu  ment.body.appendChild(player);
+
+        async function initMidiSystem() {
+            try {
+                // Load your thousands of indexed files
+                const res = await fetch('./assets/music/midi-map.json');
+                midiList = await res.json();
+            
+                // Monitor for main menu state and theme songs
+                setInterval(() => {
+                    const isThemePlaying = !!document.querySelector('audio')?.src;
+                    const isHome = window.location.hash.includes('home') || window.location.hash === '#/';
+
+                    if (isHome && !isThemePlaying && player.playbackState !== 'started') {
+                        playRandom();
+                    } else if ((!isHome || isThemePlaying) && player.playbackState === 'started') {
+                        player.stop();
+                    }
+                }, 2000);
+            } catch (e) {
+                console.error("MIDI System failed to initialize:", e);
+            }
+        }
+
+        function playRandom() {
+            if (!midiList.length) return;
+            const track = midiList[Math.floor(Math.random() * midiList.length)];
+            player.src = track;
+            player.start();
+        }
+
+        // Bypass browser autoplay blocks on first user interaction
+        window.addEventListener('click', initMidiSystem, { once: true });
+    </script>
 </body>
 </html>
