@@ -1,0 +1,6 @@
+{
+    "name": "analog_kit",
+    "minPitch": 8,
+    "maxPitch": 108,
+    "velocities": []
+}

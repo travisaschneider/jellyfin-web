@@ -1,0 +1,6 @@
+{
+    "name": "dance_organ",
+    "minPitch": 48,
+    "maxPitch": 96,
+    "velocities": []
+}

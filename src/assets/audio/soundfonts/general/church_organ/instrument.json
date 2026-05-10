@@ -1,0 +1,6 @@
+{
+    "name": "church_organ",
+    "minPitch": 60,
+    "maxPitch": 85,
+    "velocities": []
+}

@@ -1,0 +1,6 @@
+{
+    "name": "piano",
+    "minPitch": 55,
+    "maxPitch": 55,
+    "velocities": []
+}

@@ -1,0 +1,6 @@
+{
+    "name": "music_box",
+    "minPitch": 78,
+    "maxPitch": 93,
+    "velocities": []
+}

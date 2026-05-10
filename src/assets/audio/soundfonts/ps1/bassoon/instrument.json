@@ -1,0 +1,6 @@
+{
+    "name": "bassoon",
+    "minPitch": 36,
+    "maxPitch": 54,
+    "velocities": []
+}

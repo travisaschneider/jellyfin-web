@@ -1,0 +1,6 @@
+{
+    "name": "honky_tonk_piano",
+    "minPitch": 60,
+    "maxPitch": 60,
+    "velocities": []
+}

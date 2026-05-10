@@ -1,0 +1,6 @@
+{
+    "name": "nylon_guitar",
+    "minPitch": 60,
+    "maxPitch": 72,
+    "velocities": []
+}

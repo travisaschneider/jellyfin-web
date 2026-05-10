@@ -1,0 +1,6 @@
+{
+    "name": "clavinet",
+    "minPitch": 43,
+    "maxPitch": 80,
+    "velocities": []
+}

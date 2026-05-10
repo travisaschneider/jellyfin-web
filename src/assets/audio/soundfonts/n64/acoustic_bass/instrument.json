@@ -1,0 +1,6 @@
+{
+    "name": "acoustic_bass",
+    "minPitch": 28,
+    "maxPitch": 60,
+    "velocities": []
+}

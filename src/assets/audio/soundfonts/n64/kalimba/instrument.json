@@ -1,0 +1,6 @@
+{
+    "name": "kalimba",
+    "minPitch": 60,
+    "maxPitch": 72,
+    "velocities": []
+}

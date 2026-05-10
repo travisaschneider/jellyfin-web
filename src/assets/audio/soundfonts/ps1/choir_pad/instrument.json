@@ -1,0 +1,6 @@
+{
+    "name": "choir_pad",
+    "minPitch": 60,
+    "maxPitch": 96,
+    "velocities": []
+}

@@ -1,0 +1,6 @@
+{
+    "name": "grand_piano",
+    "minPitch": 24,
+    "maxPitch": 107,
+    "velocities": []
+}

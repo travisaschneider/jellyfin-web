@@ -1,0 +1,6 @@
+{
+    "name": "orchestral_harp",
+    "minPitch": 45,
+    "maxPitch": 89,
+    "velocities": []
+}

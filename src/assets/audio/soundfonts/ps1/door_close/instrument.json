@@ -1,0 +1,6 @@
+{
+    "name": "door_close",
+    "minPitch": 60,
+    "maxPitch": 60,
+    "velocities": []
+}

@@ -1,0 +1,6 @@
+{
+    "name": "voice_oohs",
+    "minPitch": 24,
+    "maxPitch": 84,
+    "velocities": []
+}

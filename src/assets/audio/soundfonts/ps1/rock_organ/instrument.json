@@ -1,0 +1,6 @@
+{
+    "name": "rock_organ",
+    "minPitch": 60,
+    "maxPitch": 96,
+    "velocities": []
+}

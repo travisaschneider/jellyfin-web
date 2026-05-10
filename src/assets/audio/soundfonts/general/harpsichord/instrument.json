@@ -1,0 +1,6 @@
+{
+    "name": "harpsichord",
+    "minPitch": 34,
+    "maxPitch": 86,
+    "velocities": []
+}

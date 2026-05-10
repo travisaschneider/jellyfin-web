@@ -1,0 +1,6 @@
+{
+    "name": "grand_harpsichord",
+    "minPitch": 38,
+    "maxPitch": 84,
+    "velocities": []
+}

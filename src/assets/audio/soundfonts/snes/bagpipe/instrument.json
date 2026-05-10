@@ -1,0 +1,6 @@
+{
+    "name": "bagpipe",
+    "minPitch": 48,
+    "maxPitch": 48,
+    "velocities": []
+}

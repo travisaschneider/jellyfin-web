@@ -1,0 +1,6 @@
+{
+    "name": "octave_sitar",
+    "minPitch": 36,
+    "maxPitch": 79,
+    "velocities": []
+}

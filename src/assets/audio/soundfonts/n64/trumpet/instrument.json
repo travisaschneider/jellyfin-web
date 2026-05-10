@@ -1,0 +1,6 @@
+{
+    "name": "trumpet",
+    "minPitch": 50,
+    "maxPitch": 86,
+    "velocities": []
+}

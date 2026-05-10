@@ -1,0 +1,6 @@
+{
+    "name": "marimba",
+    "minPitch": 65,
+    "maxPitch": 79,
+    "velocities": []
+}

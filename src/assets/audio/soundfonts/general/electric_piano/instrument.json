@@ -1,0 +1,6 @@
+{
+    "name": "electric_piano",
+    "minPitch": 40,
+    "maxPitch": 77,
+    "velocities": []
+}

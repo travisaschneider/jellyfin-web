@@ -1,0 +1,6 @@
+{
+    "name": "oboe",
+    "minPitch": 50,
+    "maxPitch": 50,
+    "velocities": []
+}

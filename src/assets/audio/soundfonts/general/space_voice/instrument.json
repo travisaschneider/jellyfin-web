@@ -1,0 +1,6 @@
+{
+    "name": "space_voice",
+    "minPitch": 60,
+    "maxPitch": 91,
+    "velocities": []
+}

@@ -1,0 +1,6 @@
+{
+    "name": "cello",
+    "minPitch": 24,
+    "maxPitch": 72,
+    "velocities": []
+}

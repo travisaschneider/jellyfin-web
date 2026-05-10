@@ -1,0 +1,6 @@
+{
+    "name": "orchestral_drum_kit",
+    "minPitch": 26,
+    "maxPitch": 65,
+    "velocities": []
+}

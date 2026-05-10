@@ -1,0 +1,6 @@
+{
+    "name": "mellow_piano",
+    "minPitch": 24,
+    "maxPitch": 102,
+    "velocities": []
+}

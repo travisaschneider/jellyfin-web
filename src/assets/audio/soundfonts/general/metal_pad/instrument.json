@@ -1,0 +1,6 @@
+{
+    "name": "metal_pad",
+    "minPitch": 24,
+    "maxPitch": 95,
+    "velocities": []
+}

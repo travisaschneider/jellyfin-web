@@ -1,0 +1,6 @@
+{
+    "name": "xylophone",
+    "minPitch": 68,
+    "maxPitch": 94,
+    "velocities": []
+}

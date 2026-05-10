@@ -1,0 +1,6 @@
+{
+    "name": "house_piano",
+    "minPitch": 40,
+    "maxPitch": 70,
+    "velocities": []
+}

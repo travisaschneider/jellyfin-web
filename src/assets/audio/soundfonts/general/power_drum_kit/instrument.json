@@ -1,0 +1,6 @@
+{
+    "name": "power_drum_kit",
+    "minPitch": 26,
+    "maxPitch": 75,
+    "velocities": []
+}

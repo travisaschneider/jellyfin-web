@@ -1,0 +1,6 @@
+{
+    "name": "clean_guitar",
+    "minPitch": 42,
+    "maxPitch": 84,
+    "velocities": []
+}

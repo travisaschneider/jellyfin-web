@@ -1,0 +1,6 @@
+{
+    "name": "rock_piano",
+    "minPitch": 24,
+    "maxPitch": 95,
+    "velocities": []
+}

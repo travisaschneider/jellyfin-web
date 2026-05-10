@@ -1,0 +1,6 @@
+{
+    "name": "guitar_fret_noise",
+    "minPitch": 76,
+    "maxPitch": 76,
+    "velocities": []
+}

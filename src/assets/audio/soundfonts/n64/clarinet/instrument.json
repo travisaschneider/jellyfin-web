@@ -1,0 +1,6 @@
+{
+    "name": "clarinet",
+    "minPitch": 44,
+    "maxPitch": 60,
+    "velocities": []
+}

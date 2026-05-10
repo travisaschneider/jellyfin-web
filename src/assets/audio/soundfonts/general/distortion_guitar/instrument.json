@@ -1,0 +1,6 @@
+{
+    "name": "distortion_guitar",
+    "minPitch": 35,
+    "maxPitch": 96,
+    "velocities": []
+}

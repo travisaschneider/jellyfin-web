@@ -1,0 +1,6 @@
+{
+    "name": "brass_section",
+    "minPitch": 65,
+    "maxPitch": 96,
+    "velocities": []
+}

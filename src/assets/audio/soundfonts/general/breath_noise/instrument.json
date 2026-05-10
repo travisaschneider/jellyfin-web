@@ -1,0 +1,6 @@
+{
+    "name": "breath_noise",
+    "minPitch": 60,
+    "maxPitch": 107,
+    "velocities": []
+}

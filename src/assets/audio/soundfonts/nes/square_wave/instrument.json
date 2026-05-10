@@ -1,0 +1,6 @@
+{
+    "name": "square_wave",
+    "minPitch": 60,
+    "maxPitch": 60,
+    "velocities": []
+}

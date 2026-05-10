@@ -1,0 +1,6 @@
+{
+    "name": "glockenspiel",
+    "minPitch": 100,
+    "maxPitch": 100,
+    "velocities": []
+}

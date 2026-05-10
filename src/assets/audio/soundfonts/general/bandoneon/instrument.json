@@ -1,0 +1,6 @@
+{
+    "name": "bandoneon",
+    "minPitch": 45,
+    "maxPitch": 79,
+    "velocities": []
+}

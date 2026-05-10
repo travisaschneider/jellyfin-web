@@ -1,0 +1,6 @@
+{
+    "name": "crystal_ep_detune",
+    "minPitch": 36,
+    "maxPitch": 96,
+    "velocities": []
+}

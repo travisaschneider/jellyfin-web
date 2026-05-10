@@ -1,0 +1,6 @@
+{
+    "name": "ocarina",
+    "minPitch": 60,
+    "maxPitch": 109,
+    "velocities": []
+}

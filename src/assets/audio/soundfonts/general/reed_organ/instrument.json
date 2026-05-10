@@ -1,0 +1,6 @@
+{
+    "name": "reed_organ",
+    "minPitch": 41,
+    "maxPitch": 96,
+    "velocities": []
+}

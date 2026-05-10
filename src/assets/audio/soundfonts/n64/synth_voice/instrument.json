@@ -1,0 +1,6 @@
+{
+    "name": "synth_voice",
+    "minPitch": 36,
+    "maxPitch": 84,
+    "velocities": []
+}

@@ -1,0 +1,6 @@
+{
+    "name": "standard_drum_kit",
+    "minPitch": 26,
+    "maxPitch": 96,
+    "velocities": []
+}

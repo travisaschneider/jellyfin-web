@@ -1,0 +1,6 @@
+{
+    "name": "psaltery",
+    "minPitch": 72,
+    "maxPitch": 90,
+    "velocities": []
+}

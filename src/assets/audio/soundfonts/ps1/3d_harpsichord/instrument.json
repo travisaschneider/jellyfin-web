@@ -1,0 +1,6 @@
+{
+    "name": "3d_harpsichord",
+    "minPitch": 38,
+    "maxPitch": 84,
+    "velocities": []
+}

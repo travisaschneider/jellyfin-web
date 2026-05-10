@@ -1,0 +1,6 @@
+{
+    "name": "synth_calliope",
+    "minPitch": 52,
+    "maxPitch": 107,
+    "velocities": []
+}

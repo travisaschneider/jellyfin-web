@@ -1,0 +1,6 @@
+{
+    "name": "dac_psg_drumset",
+    "minPitch": 60,
+    "maxPitch": 60,
+    "velocities": []
+}
