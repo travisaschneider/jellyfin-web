@@ -126,11 +126,25 @@
 
         function playRandom() {
             if (!midiList.length) return;
-            const track = midiList[Math.floor(Math.random() * midiList.length)];
-            player.src = track;
+    
+            // 1. Pick the track
+            const trackPath = midiList[Math.floor(Math.random() * midiList.length)];
+    
+            // 2. Identify the console from the path (e.g., "assets/music/midi/nes/...")
+            let soundFont = 'general'; // Default
+            if (trackPath.includes('/nes/')) soundFont = 'nes';
+            else if (trackPath.includes('/snes/')) soundFont = 'snes';
+            else if (trackPath.includes('/ps1/')) soundFont = 'ps1';
+            else if (trackPath.includes('/n64/')) soundFont = 'n64';
+
+            // 3. Update the player's sound-font attribute
+            // Using local paths for your own SF2 files
+            player.setAttribute('sound-font', `./assets/music/soundfonts/${soundFont}.sf2`);
+    
+            // 4. Play the track
+            player.src = trackPath;
             player.start();
         }
-
         // Bypass browser autoplay blocks on first user interaction
         window.addEventListener('click', initMidiSystem, { once: true });
     </script>
